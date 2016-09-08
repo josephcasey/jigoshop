@@ -1,0 +1,2 @@
+# jigoshop
+jigoshop for wordpress
